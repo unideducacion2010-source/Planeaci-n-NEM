@@ -1,0 +1,6 @@
+{
+  "name": "Planeador Escolar NEM",
+  "description": "Sistema de planeación escolar basado en los planes y programas de la Nueva Escuela Mexicana (NEM) para Educación Básica, con asistencia de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
